@@ -79,12 +79,18 @@ All API endpoints are assumed to be under the base URL:
 ```json
 [
   { 
-    "chapter": 61, 
-    "verse": 1, 
-    "juz": 28, 
-    "text": "Glorifies", 
-    "root_word": "سَبَّحَ", 
-    ...
+      "chapter": 61,
+      "verse": 1,
+      "juz": 28,
+      "hizb": 220,
+      "manzil": 7,
+      "ruku": 484,
+      "word_number_in_verse": 1,
+      "language_code": "en",
+      "text": "Glorifies",
+      "root_word": "سَبَّحَ",
+      "global_word_sequence_number": 71108,
+      "global_verse_sequence_number": 5164
   },
   ...
 ]
