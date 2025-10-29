@@ -1,0 +1,23 @@
+{
+  "host": "https://github.com/shaf-ioioi/qrn_test/blob/main",
+  "version": 16,
+  "sdk_version": 11,
+  "bn": {
+    "wbw": [
+      1
+    ],
+    "mushafs": {
+      "url": "mushafs.json",
+      "last_update": 1761620400
+    }
+  },
+  "en": {
+    "wbw": [
+      1
+    ],
+    "mushafs": {
+      "url": "mushafs.json",
+      "last_update": 1761620400
+    }
+  }
+}
